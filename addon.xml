@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="metadata.elcinema.com"
+       name="Elcinema.com"
+       version="1.0.3"
+       provider-name="Dr Tharwat">
+  <requires>
+    <import addon="xbmc.metadata" version="2.1.0"/>
+    <import addon="plugin.video.youtube" version="4.4.10" optional="true"/>
+  </requires>
+  <extension point="xbmc.metadata.scraper.movies"
+             language="en"
+             library="amdb.xml"/>
+  <extension point="xbmc.addon.metadata">
+  
+    <summary lang="en">elcinema.com Movie Scraper</summary>
+    
+    <summary lang="ar">elcinema.com Movie Scraper</summary>
+   
+       <description lang="en">elcinema.com is a free and open Arabic movie scraper. elcinema.com is currently in Development phase , it is also used by many popular media centers like Kodi to retrieve Arabic Movie Metadata, Posters and Fanart to enrich the user's experience.</description>
+        <description lang="ar">elcinema.com هو اول سكرابر للافلام العربية و يمكنك الان بسهولة ان تجد كل المعلومات المتعلقة بالافلام العربية من عنوان وصور واسماء ممثلين ومخرج و يدعم هذا الاصدار kodi.</description>
+      <platform>all</platform>
+    <license>GPL v2.0</license>
+    <forum></forum>
+    <website>https://sites.google.com/site/arabicmoviesdatabase/home</website>
+    <email></email>
+    <source></source>
+  </extension>
+</addon>

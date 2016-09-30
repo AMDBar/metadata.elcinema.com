@@ -1,0 +1,17 @@
+[B]1.0.1[/B]
+
+-Addon search for Arabic Movies has improved to get data for Almost Any thing on elcinema.com
+
+[B]1.0.2[/B]
+
+
+-Add on get Full Meta data , Title ,director, cast, plot ,thumps,
+
+
+[B]1.0.1[/B]
+
+- Addon get Title , Genre and Thumbnail 
+
+[B]1.0.0[/B]
+
+- Initial realeas
